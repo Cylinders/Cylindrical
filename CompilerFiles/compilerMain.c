@@ -9,7 +9,7 @@ int main() {
 
 
     // Open the file in read mode
-    file = fopen("example.txt", "r");
+    file = fopen("main.cyl", "r");
 
     // Check if the file opened successfully
     if (file == NULL) {

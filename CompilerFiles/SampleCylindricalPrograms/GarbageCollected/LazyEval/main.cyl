@@ -1,0 +1,30 @@
+DEF MAIN CYL
+IMPORT FILES: 
+; 
+START PROGRAM 
+
+// This is a comment
+
+
+int x = 2
+string b = "15405"
+b[4] = "5"
+char a = "a"
+print(a) 
+char y = 205 
+
+y = y + x
+ 
+
+
+
+
+
+
+
+
+
+FUNCTION DEFINITIONS
+;
+END PROGRAM
+GOODBYE CYLINDRICAL

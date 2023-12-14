@@ -7,8 +7,8 @@ START PROGRAM
 
 
 int x = 2
-string y = "15405"
-
+string b = "15405"
+b[4] = "5"
 char a = "a"
 print(a) 
 char y = 205 
@@ -24,7 +24,7 @@ y = y + x
 
 
 
-FUNCTION DEFINES
+FUNCTION DEFINITIONS
 ;
 END PROGRAM
 GOODBYE CYLINDRICAL
