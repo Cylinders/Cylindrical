@@ -1,7 +1,6 @@
 # Cylindrical
 A fully custom compiled networking programming language
 
-The language has the ability to be controlled: 
 
 
 You, as the programmer, decide whether or not the language will be lazily evaluated, or strictly evaluated. 
