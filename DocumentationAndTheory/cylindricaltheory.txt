@@ -1,0 +1,31 @@
+Networking Code can be: 
+
+Low Level
+
+Easy to Read
+
+Can Garbage Collect
+
+Can be manually memory managed
+
+
+And finally, 
+
+
+Must be CYLINDRICAL
+
+
+To be Cylindrical is to be able to fit with other cylinders in a large box. 
+Think gas cylinders in a truck in india. 
+
+Each cylinder has the power to be dangerous: 
+As in, the power to do whatever it wants. 
+
+BUT: 
+
+Each cylinder is neatly contained within itself. 
+
+LAZY EVALUATION!!!
+OR UNLAZY EVALUATION
+
+A LANGUAGE CAN DO BOTH

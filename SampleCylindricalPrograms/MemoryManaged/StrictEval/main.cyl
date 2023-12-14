@@ -1,0 +1,28 @@
+DEF MAIN CYL
+IMPORT FILES: 
+; 
+START PROGRAM 
+
+// This is a comment
+
+
+int x = 0; 
+string y = "15405";
+
+char x = "a"; 
+char y = 205; 
+
+y = y + x.int
+ 
+
+
+
+
+
+
+
+
+
+
+END PROGRAM
+GOODBYE CYLINDRICAL
