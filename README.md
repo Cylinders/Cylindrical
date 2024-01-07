@@ -2,24 +2,13 @@
 A fully custom compiled networking programming language
 
 
-
-You, as the programmer, decide whether or not the language will be lazily evaluated, or strictly evaluated. 
-
-You, as the programmer, decide whether or not the language will be garbage collected or manually memory managed. 
-
-
-
- _______________________________________________________________________________________________________
+__________________________
 
 As of right now, the language is purely theoretical and is not designed for true effective application use. 
 
 _____________________________________________
 
-The program was built WITHOUT LLVM: 
-
-Consider that to be an advantage: 
-
-Less overhead and hence faster compile times. 
+Program built WITHOUT LLVM. 
 _____________________________________________
 
-
+Not near completion. 
