@@ -1,5 +1,5 @@
 # Cylindrical
-A fully custom compiled networking programming language
+A fully custom interpreted networking programming language
 
 
 __________________________

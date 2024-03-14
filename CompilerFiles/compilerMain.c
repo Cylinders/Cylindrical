@@ -1,57 +1,28 @@
+#define _GNU_SOURCE
 #include <stdio.h>
+#include <stdlib.h> 
 int main()
 {
-    // printf() displays the string inside quotation
-    printf("INIT CYL \n");
-    FILE *file;
-    char line[100]; // NO LINES of Cylindrical should be more than 100 characters.
+    FILE * fp;
+    char * line = NULL;
+    size_t len = 0;
+    ssize_t read;
 
-    // Such long lines lead to unreadable and complex, non-cylindrical code.
+    fp = fopen("main.cyl", "r");
+    if (fp == NULL)
+        return 1;
 
+    while ((read = getline(&line, &len, fp)) != -1) {
+        //
+		printf(line); 
+		
+		
+    }
 
-    // Open the file in read mode
-    file = fopen("main.cyl", "r");
-
+    fclose(fp);
+    if (line)
+        free(line);
     
-    char ch;
-    int numlines = 0;
-
-    while ((ch = fgetc(file)) != EOF)
-    {
-        if (ch == '\n')
-        {
-            numlines++;
-        }
-    }
-    // Check if the file opened successfully
-    if (file == NULL)
-    {
-        perror("Error opening file");
-        return 1; // Return an error code
-    }
-
-    // Read and print each line in the file
-    char lines[100][1000];
-    int i = 0; 
-
-    while (fgets(line, sizeof(line), file) != NULL)
-    {
-        strcpy(lines[i], line);
-        i++; 
-    }
-
-    del(&line); 
-    del(&i); 
-    // Close the file
-    fclose(file);
-
-    return 0;
-}
-
-char** parser() {
-    char ** sub_str = malloc(10 * sizeof(char*));
-    for (int i =0 ; i < 10; ++i)
-        sub_str[i] = malloc(20 * sizeof(char));
-    /* Fill the sub_str strings */
-    return sub_str;
+	return 1; 
+	
 }
