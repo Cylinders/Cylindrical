@@ -1,6 +1,6 @@
 # Cylindrical
 
-My name is Ruthvik, and **this is my portfolio website.**
+My name is Ruthvik, and **this is my portfolio.** ***This is currently not yet complete and is in progress. Feel free to check my LinkedIn for a more thorough overview.***
 
 <img width="460" height="460" alt="65773092" src="https://github.com/user-attachments/assets/ef68e9b1-6b41-48ad-b07f-52c511e54ab0" />
 
