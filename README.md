@@ -5,12 +5,12 @@ My name is Ruthvik, and **this is my portfolio website.**
 <img width="460" height="460" alt="65773092" src="https://github.com/user-attachments/assets/ef68e9b1-6b41-48ad-b07f-52c511e54ab0" />
 
 
-Contact information: 
+## Contact information: 
 
 rv27 \[at] njit \[dot] edu
 ruthvikotravenkatesan \[at] gmail \[dot] com
 
-https://www.linkedin.com/in/ruthvikvenkatesan/
+[https://www.linkedin.com/in/ruthvikvenkatesan/]
 
 I lead research on multi-agent robotic and autonomous systems. I'll be a prospective PhD applicant for entry in Fall 2029. Email me @ rv527 [at] njit [dot] edu
 
@@ -20,7 +20,7 @@ Photographer.
 Occasionally a chef. 
 Fan of the Dallas Mavericks. 
 
-**Current Appointments**
+## Current Appointments
 *   **Vice President, NJIT Solar Car Team** (July 2026 - Present)
     *   Leading team of 70+ members and managing a $X0,000+ budget to develop a solar-powered EV submitted to the Formula Sun Grand Prix.
 *   **Research Group Lead: Discrete Event Systems Laboratory, New Jersey Institute of Technology** (April 2026 - Present)
@@ -29,7 +29,7 @@ Fan of the Dallas Mavericks.
     *   Also accepted for the Honors Summer Research Institute (not attending).
     *   Under mentorship of Professor MengChu Zhou, affiliated with NJIT Discrete Event Systems Laboratory.
 
-**Past Appointments**
+## **Past Appointments**
 *   **Teaching Assistant: ECE 251 (Digital Design), New Jersey Institute of Technology** (February 2026 - May 2026)
     *   Course Content: Boolean Algebra, Function Minimization, Sequential Circuits, Registers, State Machines. 
     *   Prof. Jacob Savir.
@@ -42,7 +42,7 @@ Fan of the Dallas Mavericks.
     *   Software engineer for application used by 30+ high school and college sports teams.
 
 
-**Publications / Presentation**
+## Publications / Presentation
 
 Second Author, Computational protein design: Advancing biotechnology through in silico engineering. Progress in Biophysics and Molecular Biology (2025). (Citations: 6) 
 
