@@ -20,10 +20,15 @@ Photographer.
 Occasionally a chef. 
 Fan of the Dallas Mavericks. 
 
+## Blog: 
+
+_coming soon!_
+
 ## Current Appointments
 *   **Vice President, NJIT Solar Car Team** (July 2026 - Present)
     *   Leading team of 70+ members and managing a $X0,000+ budget to develop a solar-powered EV submitted to the Formula Sun Grand Prix.
-*   **Research Group Lead: Discrete Event Systems Laboratory, New Jersey Institute of Technology** (April 2026 - Present)
+    *   [https://github.com/cylinders/cylindrical/solarcar/whatdoido.md]
+    *   **Research Group Lead: Discrete Event Systems Laboratory, New Jersey Institute of Technology** (April 2026 - Present)
     *   Founded and currently leading a 4-person research group focusing on multi-agent path finding, autonomous multi-agent robotics, and drone swarm management.
     *   Funded by the 2026 PSE&G Fellowship (~10% acceptance rate).
     *   Also accepted for the Honors Summer Research Institute (not attending).
