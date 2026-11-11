@@ -4,7 +4,10 @@ My name is Ruthvik, and **this is my portfolio.**
 
 <img width="460" height="460" alt="65773092" src="https://github.com/user-attachments/assets/ef68e9b1-6b41-48ad-b07f-52c511e54ab0" />
 
-### I am a sophomore EE at the New Jersey Institute of Technology do work on multi-agent robotics and robot learning. I lead a research group under Prof. MengChu Zhou. https://web.njit.edu/~zhou/ 
+
+
+
+
 
 
 ## Contact information: 
@@ -12,9 +15,15 @@ My name is Ruthvik, and **this is my portfolio.**
 rv27 \[at] njit \[dot] edu
 ruthvikotravenkatesan \[at] gmail \[dot] com
 
+
+
+
 [https://www.linkedin.com/in/ruthvikvenkatesan/]
 
-I lead research on multi-agent robotic and autonomous systems. I'll be a prospective PhD applicant for entry in Fall 2029. Email me @ rv527 [at] njit [dot] edu
+### I am a sophomore EE at the New Jersey Institute of Technology do work on multi-agent robotics and robot learning. I lead a research group under Prof. MengChu Zhou. https://web.njit.edu/~zhou/ 
+
+ 
+I'll be a prospective PhD applicant for entry in Fall 2029 or Fall 2030. Email me @ rv527 [at] njit [dot] edu
 
 Amateur bamboo flutist.
 EECS / Robotics Research.
