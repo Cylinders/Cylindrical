@@ -34,7 +34,7 @@ Fan of the Dallas Mavericks.
 ## News!
 
 - 11-4-2026: Accepted to attend the IEEE NJIT VIAM Hackathon (~25% Acceptance Rate).  
-- 10-30-2026: Won the ECE IAB Blackman Academic Excellence award at NJIT, awarded to one sophomore, junior, and senior per year. 
+- 10-30-2026: Won the ECE IAB Blackman Academic Excellence award at NJIT, awarded to one sophomore, junior, and senior per year (3 students out of 600+). 
 - 10-27-26: Presented my work on MAPF Empirical hardness at the Rutgers Robotics Workshop.
 - 10-11-26: Presented my work on MAPF Empirical Hardness at MIT URTC.  
 
